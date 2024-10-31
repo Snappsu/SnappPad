@@ -5,3 +5,5 @@ I recently got a [programmable MacroPad from Adafruid](https://www.adafruit.com/
 I doubt that this'll be useful to anyone without modification, but I think my code is readable enough for people to modify with *some* ease.
 
 It's not production ready but here it is nonetheless.
+
+I recommend reading up on [CircuitPython](https://learn.adafruit.com/adafruit-macropad-rp2040/circuitpython) before messing with anything.
